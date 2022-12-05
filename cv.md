@@ -22,4 +22,4 @@ My key skills: stress tolerance, purposefulness, striving for new knowledge.
 2. [Webmaster](https://ias.bsuir.by/course/web-master)
 
 ## English
-**A2**
+**A2** (learning english with [Duolingo](https://ru.duolingo.com/))
