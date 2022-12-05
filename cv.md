@@ -18,8 +18,9 @@ My key skills: stress tolerance, purposefulness, striving for new knowledge.
 ## Experience
 
 ## Education
-1. [htmlacademy](https://htmlacademy.ru/)
+1. [Htmlacademy](https://htmlacademy.ru/)
 2. [Webmaster](https://ias.bsuir.by/course/web-master)
+3. [Glo Academy](https://www.youtube.com/watch?v=n9kx5Vk0jgc&list=PL3LQJkGQtzc5G7wIQfVqBMEprmTKZIaXf&ab_channel=GloAcademy)
 
 ## English
 **A2** (learning english with [Duolingo](https://ru.duolingo.com/))
