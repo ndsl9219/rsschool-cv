@@ -2,11 +2,11 @@
 
 ## Contacts
 + **Location:** Minsk, Belarus
-+ **E-mail:** ndsl971@proton.me
-+ **GitHub:** [ndsl9219](https://github.com/ndsl9219)
++ **Nickname in Discord:** ndsl9219#3293
++ **Telegram:** [@nds_9219](https://t.me/nds_9219)
 
 ## About Me:
-My key skills: stress tolerance, purposefulness, striving for new knowledge.
+I work as a content manager, I am fond of outdoor activities, sports, reading books. My key skills: stress tolerance, purposefulness, striving for new knowledge.
 
 ## Skills
 1. HTML
@@ -14,13 +14,20 @@ My key skills: stress tolerance, purposefulness, striving for new knowledge.
 3. Photoshop
 
 ## Code Example
-
+```
+function sum(a, b) {
+   return a + b;
+}
+                        
+let result = sum(1, 2);
+alert( result );
+```
 ## Experience
+No experience
 
 ## Education
-1. [Htmlacademy](https://htmlacademy.ru/)
+1. [Htmlacademy](https://htmlacademy.ru/courses)
 2. [Webmaster](https://ias.bsuir.by/course/web-master)
-3. [Glo Academy](https://www.youtube.com/watch?v=n9kx5Vk0jgc&list=PL3LQJkGQtzc5G7wIQfVqBMEprmTKZIaXf&ab_channel=GloAcademy)
 
 ## English
-**A2** (learning english with [Duolingo](https://ru.duolingo.com/))
+**A2** (learning english with Duolingo)
