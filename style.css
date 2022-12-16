@@ -17,17 +17,35 @@
   }
 
   h1 {
+    color: #444444;
     font-size: 50px;
     font-family: 'Lora', serif;
   }
 
   h2 {
+    color: #444444;
     font-size: 30px;
     font-family: 'Lora', serif;
   }
 
-  a {
+  .link {
+    color: #829985;
+    font-weight: bold;
     text-decoration: none;
+  }
+
+  .link:visited {
+    color: #829985;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+  ul {
+    padding-left: 0;
   }
 
   .container {
@@ -36,6 +54,7 @@
   }
 
   .main-container {
+    width: 55%;
     display: flex;
     flex-wrap: wrap;
   }
@@ -47,12 +66,11 @@
 
   .section {
     width: 50%;
-    padding-left: 50px;
+    color: #444444;
   }
 
   .photo-section {
     width: 50%;
-    padding-left: 50px;
   }
 
   .my-photo {
@@ -61,9 +79,9 @@
 
   .footer-section {
     width: 33%;
-    padding-left: 50px;
     padding-top: 30px;
     text-align: center;
+    color: #444444; 
   }
 
   @media (max-width: 768px) {
@@ -80,13 +98,13 @@
 
   .nav-list {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     list-style: none;
   }
 
   .nav-link {
-    padding: 0 20px;
+    padding: 0 30px;
     line-height: 50px;
     transition: .3s;
     text-decoration: none;
