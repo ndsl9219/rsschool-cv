@@ -17,27 +17,37 @@
   }
 
   h1 {
+    padding-left: 10px;
     color: #444444;
-    font-size: 50px;
+    font-size: 33px;
     font-family: 'Lora', serif;
+    border-left: solid 3px #829985;
+    cursor: default;
   }
 
   h2 {
-    color: #444444;
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Lora', serif;
+    color: #444444;
+  }
+
+  h2:hover {
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-color: #829985;
+    cursor: default;
   }
 
   .link {
-    color: #829985;
     font-weight: bold;
     text-decoration: none;
+    color: #829985;
   }
 
   .link:visited {
-    color: #829985;
     font-weight: bold;
     text-decoration: none;
+    color: #829985;
   }
 
   li {
@@ -54,9 +64,9 @@
   }
 
   .main-container {
-    width: 55%;
     display: flex;
     flex-wrap: wrap;
+    width: 55%;
   }
 
   .footer-container {
